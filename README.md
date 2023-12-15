@@ -5,3 +5,4 @@ I'm gonna practice my python and do some challenges from Advent of Code 2023! Th
 - 1.1
 - 1.2
 - 2.1
+- 2.2
